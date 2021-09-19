@@ -5,66 +5,6 @@
 [![Comanche]][ComancheMilestone]
 [![Luminary]][LuminaryMilestone]
 
-🎌
-[Bahasa Indonesia][ID],
-[Català][CA],
-[Čeština][CZ],
-[Deutsch][DE],
-**English**,
-[Español][ES],
-[Français][FR],
-[Italiano][IT],
-[Kurdi][KU],
-[Nederlands][NL],
-[Norsk][NO],
-[Polski][PL],
-[Português][PT_BR],
-[Română][RO],
-[Tiếng Việt][VI],
-[Türkçe][TR],
-[Ελληνικά][GR],
-[Русский][RU],
-[العربية][AR],
-[فارسی][FA],
-[हिंदी][HI_IN],
-[অসমীয়া][AS_IN],
-[বাংলা][BD_BN],
-[မြန်မာ][MM],
-[日本語][JA],
-[正體中文][ZH_TW],
-[简体中文][ZH_CN],
-[한국어][KO_KR]
-
-[AR]:README.ar.md
-[AS_IN]:README.as_in.md
-[BD_BN]:README.bd_bn.md
-[CA]:README.ca.md
-[CZ]:README.cz.md
-[DE]:README.de.md
-[EN]:README.md
-[ES]:README.es.md
-[FA]:README.fa.md
-[FR]:README.fr.md
-[GR]:README.gr.md
-[HI_IN]:README.hi_in.md
-[ID]:README.id.md
-[IT]:README.it.md
-[JA]:README.ja.md
-[KO_KR]:README.ko_kr.md
-[KU]:README.ku.md
-[LT]:README.lt.md
-[MM]:README.mm.md
-[NL]:README.nl.md
-[NO]:README.no.md
-[PL]:README.pl.md
-[PT_BR]:README.pt_br.md
-[RO]:README.ro.md
-[RU]:README.ru.md
-[TR]:README.tr.md
-[VI]:README.vi.md
-[ZH_CN]:README.zh_cn.md
-[ZH_TW]:README.zh_tw.md
-
 Original Apollo 11 guidance computer (AGC) source code for Command Module (Comanche055) and Lunar Module (Luminary099). Digitized by the folks at [Virtual AGC][3] and [MIT Museum][4]. The goal is to be a repo for the original Apollo 11 source code. As such, PRs are welcome for any issues identified between the transcriptions in this repository and the original source scans for [Luminary 099][5] and [Comanche 055][6], as well as any files I may have missed.
 
 ## Contributing
@@ -84,9 +24,7 @@ Copyright      | Public domain
 Comanche055    | Part of the source code for Colossus 2A, the Command Module's (CM) Apollo Guidance Computer (AGC) for Apollo 11<br>`Assemble revision 055 of AGC program Comanche by NASA`<br>`2021113-051. 10:28 APR. 1, 1969`
 Luminary099    | Part of the source code for Luminary 1A, the Lunar Module's (LM) Apollo Guidance Computer (AGC) for Apollo 11<br>`Assemble revision 001 of AGC program LMY99 by NASA`<br>`2021112-061. 16:27 JUL. 14, 1969`
 Assembler      | yaYUL
-Contact        | Ron Burkey <info@sandroid.org>
-Website        | www.ibiblio.org/apollo
-Digitalisation | This source code has been transcribed or otherwise adapted from digitized images of a hardcopy from the MIT Museum. The digitization was performed by Paul Fjeld, and arranged for by Deborah Douglas of the Museum. Many thanks to both.
+Source Website | www.ibiblio.org/apollo
 
 ### Contract and Approvals
 
