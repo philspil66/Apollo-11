@@ -7,10 +7,6 @@
 
 Original Apollo 11 guidance computer (AGC) source code for Command Module (Comanche055) and Lunar Module (Luminary099). Digitized by the folks at [Virtual AGC][3] and [MIT Museum][4]. The goal is to be a repo for the original Apollo 11 source code. As such, PRs are welcome for any issues identified between the transcriptions in this repository and the original source scans for [Luminary 099][5] and [Comanche 055][6], as well as any files I may have missed.
 
-## Contributing
-
-Please read [CONTRIBUTING.md][7] before opening a pull request.
-
 ## Compiling
 
 If you are interested in compiling the original source code, check
@@ -27,8 +23,6 @@ Assembler      | yaYUL
 Source Website | www.ibiblio.org/apollo
 
 ### Contract and Approvals
-
-*Derived from [CONTRACT_AND_APPROVALS.agc]*
 
 This AGC program shall also be referred to as Colossus 2A.
 
@@ -47,18 +41,3 @@ Richard H. Battin | Director, Mission Development<br>Apollo Guidance and Navigat
 David G. Hoag     | Director<br>Apollo Guidance and Navigation Program | 28 Mar 69
 Ralph R. Ragan    | Deputy Director<br>Instrumentation Laboratory | 28 Mar 69
 
-[CONTRACT_AND_APPROVALS.agc]:https://github.com/chrislgarry/Apollo-11/blob/master/Comanche055/CONTRACT_AND_APPROVALS.agc
-[1]:https://flat.badgen.net/badge/NASA/Mission%20Overview/0B3D91
-[2]:https://www.nasa.gov/mission_pages/apollo/missions/apollo11.html
-[3]:http://www.ibiblio.org/apollo/
-[4]:http://web.mit.edu/museum/
-[5]:http://www.ibiblio.org/apollo/ScansForConversion/Luminary099/
-[6]:http://www.ibiblio.org/apollo/ScansForConversion/Comanche055/
-[7]:https://github.com/chrislgarry/Apollo-11/blob/master/CONTRIBUTING.md
-[8]:https://github.com/rburkey2005/virtualagc
-[SWH]:https://flat.badgen.net/badge/Software%20Heritage/Archive/0B3D91
-[SWH_URL]:https://archive.softwareheritage.org/browse/origin/https://github.com/chrislgarry/Apollo-11/
-[Comanche]:https://flat.badgen.net/github/milestones/chrislgarry/Apollo-11/1
-[ComancheMilestone]:https://github.com/chrislgarry/Apollo-11/milestone/1
-[Luminary]:https://flat.badgen.net/github/milestones/chrislgarry/Apollo-11/2
-[LuminaryMilestone]:https://github.com/chrislgarry/Apollo-11/milestone/2
