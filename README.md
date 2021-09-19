@@ -2,8 +2,6 @@
 
 [![NASA][1]][2]
 [![SWH]][SWH_URL]
-[![Comanche]][ComancheMilestone]
-[![Luminary]][LuminaryMilestone]
 
 Original Apollo 11 guidance computer (AGC) source code for Command Module (Comanche055) and Lunar Module (Luminary099). Digitized by the folks at [Virtual AGC][3] and [MIT Museum][4]. The goal is to be a repo for the original Apollo 11 source code. As such, PRs are welcome for any issues identified between the transcriptions in this repository and the original source scans for [Luminary 099][5] and [Comanche 055][6], as well as any files I may have missed.
 
